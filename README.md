@@ -66,6 +66,7 @@ _This text_ is italic
 `<p>This is paragraph</p>`
 
 ![Mardown Logo](https://markdown-here.com/img/icon256.png)
+![Mardown Logo](MD/md.png)
 
 <!-- GITHUB MARKDOWN -->
 
